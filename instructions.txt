@@ -1,4 +1,3 @@
-# Fixtures
 1. Run npm install
 
 3. Finally run the application in development using below command
